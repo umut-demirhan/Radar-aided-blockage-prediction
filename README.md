@@ -23,4 +23,4 @@ If you in any way use this code for research that results in publications, pleas
 > U. Demirhan and A. Alkhateeb, "[Radar Aided Proactive Blockage Prediction in Real-World Millimeter Wave Systems](https://arxiv.org/abs/2111.14805)," in 2022 IEEE International Conference on Communications (ICC), 2022
 
 If you use the [DeepSense 6G dataset](www.deepsense6g.net), please also cite our dataset article:
-> A. Alkhateeb, G. Charan, T. Osman, A. Hredzak, and N. Srinivas, “DeepSense 6G: large-scale real-world multi-modal sensing and communication datasets,” to be available on arXiv, 2022. [Online]. Available: https://www.DeepSense6G.net
+> A. Alkhateeb, G. Charan, T. Osman, A. Hredzak, J. Morais, U. Demirhan, and N. Srinivas, “DeepSense 6G: large-scale real-world multi-modal sensing and communication datasets,” IEEE Communications Magazine, vol. 61, no. 9, pp. 122–128, 2023.
